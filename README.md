@@ -1,6 +1,6 @@
 # sex-differences
 
-RUN AB ANALYSES
+**RUN AB ANALYSES**
 
 •	 Load "SEX_AB_DATA" .mat (MATLAB Data) file
 
