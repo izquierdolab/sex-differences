@@ -1,9 +1,9 @@
 # sex-differences
 
 RUN AB ANALYSES
--Load "SEX_AB_DATA" .mat (MATLAB Data) file
--Run the "SEX_GLM_AB_STATS_FINAL" .m (MATLAB Code) script 
--This will output all the GLM statistical analyses for the Action-Based (AB) task used in the manuscript
+•	 Load "SEX_AB_DATA" .mat (MATLAB Data) file
+•	 Run the "SEX_GLM_AB_STATS_FINAL" .m (MATLAB Code) script 
+•	 This will output all the GLM statistical analyses for the Action-Based (AB) task used in the manuscript
 
 -----
 RUN SB ANALYSES
